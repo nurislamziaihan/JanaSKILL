@@ -42,7 +42,6 @@ header div{
 }
 header h1{
     margin: auto;
-    padding-right: 255px;
     font-size: 50px;
     font-weight: 800;
     transition: all 500ms ease;
