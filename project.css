@@ -255,6 +255,7 @@ img.Homepage{
 div.contact{
     background-color: aqua;
     width: 100%;
+    margin: 0 auto;
 }
 
 div.contacts{
