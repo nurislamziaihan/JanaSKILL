@@ -88,7 +88,7 @@ img {
 
 img:hover{
     transform: scale(1.03);
-    box-shadow: 0 0 50px rgba(158, 198, 255, 0.25);
+    box-shadow: 0 0 40px rgba(158, 198, 255, 0.25);
 }
 
 .wrapper{
