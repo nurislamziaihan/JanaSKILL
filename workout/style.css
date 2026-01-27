@@ -131,7 +131,7 @@ nav a:hover {
 }
 .placeholder {
     width: 80%;
-    height: 600px;
+    height: 30%;
     border-radius: 30px;
     background: repeating-linear-gradient(
         45deg,
